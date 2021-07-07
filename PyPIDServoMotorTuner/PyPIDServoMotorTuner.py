@@ -5,9 +5,9 @@
 '''**********************************************************************************************
  * Python Servo Motor PID Tuner
  * by patlhy
- 
+ *
  * This is a companion software for DC Servo Motor controller in
- * https://github.com/patlhy/PID-DC-Motor-Servo-Controller/ArduinoTB6612PIDController/tree/main/
+ * https://github.com/patlhy/PID-DC-Motor-Servo-Controller/tree/master/ArduinoTB6612PIDController
  *
  * This PID visualization and tuning Software is used it to change the PID values and see how the
  * DC motor would response to a step response. The software uses the USB COM port to send command

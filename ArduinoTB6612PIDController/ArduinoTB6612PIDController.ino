@@ -9,7 +9,9 @@
  * motor stuck and runaway detection.
  * 
  * A companion PID tuning Python software can be found in 
- * https://github.com/patlhy/PID-DC-Motor-Servo-Controller/tree/main/PyPIDServoMotorTuner
+ * https://github.com/patlhy/PID-DC-Motor-Servo-Controller/tree/master/PyPIDServoMotorTuner
+ * Detailed instruction on how to use it can be found in:
+ * https://hackaday.io/project/178310-stepper-to-dc-motor-conversion 
  **********************************************************************************************/
 
 #include <EEPROM.h>
