@@ -127,7 +127,7 @@ class Window(QtGui.QWidget):
         layout.addWidget(self.plt2, 15, 0, 3, 5)  
 
         self.setLayout(layout)
-        self.setWindowTitle("PID Motor Controller Tuner")
+        self.setWindowTitle("PyPIDServoMotorTuner")
 
 
     def createButton(self, text, member):
